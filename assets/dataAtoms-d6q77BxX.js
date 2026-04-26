@@ -1,0 +1,3 @@
+import{c as s,t}from"./utils-DDWqeB7L.js";var m=(function(a){return a.None="none",a.Standard="standard",a.Lossless="lossless",a.HiResLossless="hi-res-lossless",a.DolbyAtmos="dolby-atmos",a})({}),r=t("amll-react-full.current_id",null,void 0,{getOnInit:!0}),e=s("未知歌曲"),i=s([{name:"未知创作者",id:"unknown"}]),l=s("未知专辑"),n=s(""),u=s(!1),c=s(0),v=s(!1),A=t("amll-react-full.position",0,void 0,{getOnInit:!0}),f=t("amll-react-full.musicVolumeAtom",.5,void 0,{getOnInit:!0}),d=s([]),g=s({type:m.None,codec:"unknown",channels:2,sampleRate:44100,sampleFormat:"s16"}),I=s(null),L=s([]),h=s(1),N=s(0);export{f as _,i as a,c,N as d,e as f,I as g,g as h,l as i,r as l,A as m,L as n,n as o,v as p,h as r,u as s,m as t,d as u};
+
+//# sourceMappingURL=dataAtoms-d6q77BxX.js.map

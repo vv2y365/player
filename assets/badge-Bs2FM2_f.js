@@ -1,0 +1,3 @@
+import{o as s}from"./chunk-51Az_VFG.js";import{K as d,M as n,N as u,R as p,T as f,g as v,h as N,k as _,p as g}from"./card-lWXSgvaF.js";var y=["1","2","3"],h=["solid","soft","surface","outline"],q={...n,size:{type:"enum",className:"rt-r-size",values:y,default:"1",responsive:!0},variant:{type:"enum",className:"rt-variant",values:h,default:"soft"},..._,...f,...g},a=s(d()),z=s(u()),B=a.forwardRef((e,r)=>{const{asChild:t,className:o,color:l,radius:i,...m}=v(e,q,N),c=t?p:"span";return a.createElement(c,{"data-accent-color":l,"data-radius":i,...m,ref:r,className:(0,z.default)("rt-reset","rt-Badge",o)})});B.displayName="Badge";export{B as t};
+
+//# sourceMappingURL=badge-Bs2FM2_f.js.map

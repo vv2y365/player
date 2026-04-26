@@ -1,0 +1,3 @@
+import{o as r}from"./chunk-51Az_VFG.js";import{A as m,K as d,N as c,R as p,g as f,h as v,j as u}from"./card-lWXSgvaF.js";var e=r(d()),_=parseFloat("19.2.4")>=19||"",E={loading:{type:"boolean",default:!0},...u,...m},N=r(c()),S=e.forwardRef((t,s)=>{const{children:a,className:n,loading:i,...l}=f(t,E,v);if(!i)return a;const o=e.isValidElement(a)?p:"span";return e.createElement(o,{ref:s,"aria-hidden":!0,className:(0,N.default)("rt-Skeleton",n),"data-inline-skeleton":e.isValidElement(a)?void 0:!0,tabIndex:-1,inert:_,...l},a)});S.displayName="Skeleton";export{S as t};
+
+//# sourceMappingURL=skeleton-CtgU-G2q.js.map

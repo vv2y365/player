@@ -1,0 +1,3 @@
+import{o as r}from"./chunk-51Az_VFG.js";import{K as n,M as d,N as v,R as f,S as p,T as u,b as N,g as _,h,k as g,x as y}from"./card-lWXSgvaF.js";var C=["1","2","3","4","5","6","7","8","9"],S=["solid","soft","outline","ghost"],$={...d,size:{type:"enum",className:"rt-r-size",values:C,responsive:!0},variant:{type:"enum",className:"rt-variant",values:S,default:"soft"},...N,...g,...u,...y,...p},e=r(n()),q=r(v()),x=e.forwardRef((a,t)=>{const{asChild:o,className:i,color:s,...l}=_(a,$,h),m=a.variant==="ghost"?s||void 0:s,c=o?f:"code";return e.createElement(c,{"data-accent-color":m,...l,ref:t,className:(0,q.default)("rt-reset","rt-Code",i)})});x.displayName="Code";export{x as t};
+
+//# sourceMappingURL=code-Dzg9J4bf.js.map

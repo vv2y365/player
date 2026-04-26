@@ -1,0 +1,3 @@
+import{o as e}from"./chunk-51Az_VFG.js";import{K as n,M as m,N as p,d as c,g as d,h as v,l as u}from"./card-lWXSgvaF.js";var f=["div","span"],_=["none","inline","inline-block","block","contents"],y={as:{type:"enum",values:f,default:"div"},...m,display:{type:"enum",className:"rt-r-display",values:_,responsive:!0}},a=e(n()),N=e(p()),x=a.forwardRef((s,r)=>{const{className:t,asChild:o,as:l="div",...i}=d(s,y,u,v);return a.createElement(o?c:l,{...i,ref:r,className:(0,N.default)("rt-Box",t)})});x.displayName="Box";export{x as t};
+
+//# sourceMappingURL=box-CGCMWQVs.js.map

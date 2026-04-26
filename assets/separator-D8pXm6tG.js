@@ -1,0 +1,3 @@
+import{o as e}from"./chunk-51Az_VFG.js";import{K as c,N as n,O as m,g as p,h as v}from"./card-lWXSgvaF.js";var u={orientation:{type:"enum",className:"rt-r-orientation",values:["horizontal","vertical"],default:"horizontal",responsive:!0},size:{type:"enum",className:"rt-r-size",values:["1","2","3","4"],default:"1",responsive:!0},color:{...m.color,default:"gray"},decorative:{type:"boolean",default:!0}},a=e(c()),d=e(n()),f=a.forwardRef((r,t)=>{const{className:o,color:s,decorative:l,...i}=p(r,u,v);return a.createElement("span",{"data-accent-color":s,role:l?void 0:"separator",...i,ref:t,className:(0,d.default)("rt-Separator",o)})});f.displayName="Separator";export{f as t};
+
+//# sourceMappingURL=separator-D8pXm6tG.js.map

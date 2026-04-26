@@ -1,0 +1,3 @@
+import{o as s}from"./chunk-51Az_VFG.js";import{C as i,K as h,M as u,N as d,O as p,R as f,S as v,T as $,b as _,g as N,h as g,w as y,x as E}from"./card-lWXSgvaF.js";var S=["h1","h2","h3","h4","h5","h6"],q=["1","2","3","4","5","6","7","8","9"],w={as:{type:"enum",values:S,default:"h1"},...u,size:{type:"enum",className:"rt-r-size",values:q,default:"6",responsive:!0},..._,...i,...y,...E,...v,...p,...$},a=s(h()),x=s(d()),z=a.forwardRef((r,t)=>{const{children:e,className:l,asChild:o,as:m="h1",color:n,...c}=N(r,w,g);return a.createElement(f,{"data-accent-color":n,...c,ref:t,className:(0,x.default)("rt-Heading",l)},o?e:a.createElement(m,null,e))});z.displayName="Heading";export{z as t};
+
+//# sourceMappingURL=heading-CsN8M_jW.js.map
